@@ -1,2 +1,2 @@
 # Armduino
-Software for controlling small, servo-operated, arduino-based robotic arms.
+Software for controlling small, servo-based, robotic arms with Arduino.
